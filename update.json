@@ -1,6 +1,6 @@
 {
   "versionCode": 3,
   "versionName": "1.0.2",
-  "apkUrl": "https://github.com/guibsilla-svg/LUCARS-ESTOQUE-UPDATE/releases/latest/download/LUCARS-ESTOQUE.apk",
-  "releaseNotes": "Melhorias e correções."
+  "apkUrl": "https://github.com/guibsilla-svg/LUCARS-ESTOQUE-UPDATE/releases/latest/download/app-release.apk",
+  "releaseNotes": "Catálogo offline de marcas e modelos, com seleção pesquisável e modelos filtrados pela marca. É possível digitar marcas e modelos personalizados."
 }
