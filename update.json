@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.0.4",
+  "versionCode": 6,
+  "versionName": "1.0.5",
   "apkUrl": "https://github.com/guibsilla-svg/LUCARS-ESTOQUE-UPDATE/releases/latest/download/LUCARS-ESTOQUE.apk",
-  "releaseNotes": "Seletores de cadastro, identidade visual LUCARS e atualização automática."
+  "releaseNotes": "Atualização com logo oficial e ícone LC."
 }
