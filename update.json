@@ -1,6 +1,6 @@
 {
-  "versionCode": 8,
-  "versionName": "1.0.7",
+  "versionCode": 9,
+  "versionName": "1.0.8",
   "apkUrl": "https://github.com/guibsilla-svg/LUCARS-ESTOQUE-UPDATE/releases/latest/download/app-release.apk",
-  "releaseNotes": "Anos dinâmicos, margem segura da tela e logo transparente."
+  "releaseNotes": "Logo reposicionado abaixo da câmera frontal, mantendo as margens seguras."
 }
